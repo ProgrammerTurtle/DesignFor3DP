@@ -43,10 +43,15 @@ I have 2 design philosphies that I follow with my parts: **Make it look cool** a
 
 - This is actually fairly similar to overhangs if you think about it - they are just complete curves. Vertical holes will print fine with no issues. Horizontal holes, however, are a different story. The top of the hole is what we consider a **steep overhang**. This means it will not print very well. So, we can make the holes print better by turning them into a teardrop shape - when done correctly, this will not noticeably affect quality or performance.
 
+- Fun fact about teardropped holes - they are actually the [RepRap Logo](https://reprap.org/wiki/RepRapLogo)! RepRap is an important movement from the early days of consumer 3D printing and is the reason that all of modern 3D printing exists. It was all about easy to source, self replicating 3D printers, so that we could get machines to the masses. Really, really important piece of history, and it happens to be this exact technique! 
+
 <img width="1068" height="839" alt="image" src="https://github.com/user-attachments/assets/e2786879-b62f-4671-aba1-1fd705e11c4c" />
 
 - The same applies to arches! They are essentially an incomplete circle. Point the top, and the print will come out perfect! 
 
+<img width="1064" height="899" alt="image" src="https://github.com/user-attachments/assets/e93a6b61-6253-41e7-9e26-39114ee2e810" />
+
+- Another technique you can use for holes, specifically holes you are pressing components into, is hexagonal holes! A good example would be for bearing holes where you want a good press fit - often times, a hexagon will be more accurate than a round bore. Especially on vertical walls. This is because at the end of the day all circles are approximations, not actual circles. Some of them are really, really good approximations, but it is still an approximation. A hexagon is straight lines and exact angles - nothing to mess up. 
 
 ## 4. Tolerances
 
