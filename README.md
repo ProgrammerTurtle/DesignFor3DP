@@ -19,6 +19,8 @@ I have 2 design philosphies that I follow with my parts: **Make it look cool** a
 
 - Generally, this does not matter much unless you are doing thin walls. If your wall is thicker than 2-3mm, you can basically forget this as the walls will start to have infill and not just be perimeters, which is where the majority of line width applies. 
 
+- NOTE: Nowadays, we do have a wonderful slicer feature called Arachne, which changes line width to adjust for differing sizes. This makes it significantly less important to pay attention to line width, but it is still good practice to at least keep it in mind as often times perimiter/vertical line count is associated with strength. It is especially crucial to keep in mind not going below 1x line width. 
+
 
 ## 2. Overhangs
 
