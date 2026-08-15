@@ -59,6 +59,8 @@ I have 2 design philosphies that I follow with my parts: **Make it look cool** a
 
 - Tolerances are one that catches a lot of people off guard, even though it makes a lot of sense in hindsight. Your printer is working its absolute hardest to be accurate - so accurate, that if you have a hole and a pin that are the same size in CAD, they won't fit together without a lot of force! You have to add **tolerance**, aka a gap that allows for the parts to fit together cleanly. For most parts, an 0.3mm gap will be enough. On vertical features, you may need a bit more tolerance due to less accuracy in Z. These apply to **any parts that need to fit together**
 
+- Tolerances also apply to print-in-place prints and other multi-part assemblies that print in one go. They must be added so that parts do not fuse together, allowing for proper motion and seperation. An example of this would be an articulated flexy dragon - everyone has seen one of those. Proper tolerancing on the joints is what allows motion. 
+
 
 ## 5. Fillets and Chamfers
 
